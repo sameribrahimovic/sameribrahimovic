@@ -6,16 +6,15 @@ Software Developer
 
 Software Developer specialized in Desktop and Web application development.
 * Desktop Development : C#(Wpf, Windows Forms) 
-* Web development : Before (Asp .Net Core, Blazor Html), Now( JS & React)
-* Database managment : Sql Mysql MongoDb, Firebase
+* Web development : Before (Asp .Net Core), Now( JS & React - MERN Stack)
+* Database managment : Sql, Mysql, MongoDb, Firebase
 * Source control : Git, Azure
 
 * 🌍  I'm based in Novi Pazar
 * ✉️  You can contact me at [sameribrahimovic@hotmail.com](mailto:sameribrahimovic@hotmail.com)
 * 🧠  I'm currently learning NEXT JS
 
-<a href="https://www.github.com/sameribrahimovic" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sameribrahimovic?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
