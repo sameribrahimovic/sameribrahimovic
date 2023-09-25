@@ -5,10 +5,10 @@ Software Developer
 ------------------
 
 Software Developer specialized in Desktop and Web application development.
-Desktop Development : C#(Wpf, Windows Forms) 
-Web development : Before (Asp .Net Core, Blazor Html), Now( JS & React)
-Database managment : Sql Mysql MongoDb, Firebase
-Source control : Git, Azure
+* Desktop Development : C#(Wpf, Windows Forms) 
+* Web development : Before (Asp .Net Core, Blazor Html), Now( JS & React)
+* Database managment : Sql Mysql MongoDb, Firebase
+* Source control : Git, Azure
 
 * 🌍  I'm based in Novi Pazar
 * ✉️  You can contact me at [sameribrahimovic@hotmail.com](mailto:sameribrahimovic@hotmail.com)
